@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pratikbadgujar
 - 👀 I’m interested in python & R language
 - 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning topics
+- 📫 You can reach me at pratdb@gmail.com or on my linkedin https://www.linkedin.com/in/pratik-badgujar-186570162/
 
 
 <!---
